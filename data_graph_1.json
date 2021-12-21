@@ -1,0 +1,353 @@
+﻿{
+    "Url": "www.epdata.es/total-personas-murieron-espana/129f293d-0f43-4359-b402-cee81ff9f4f8",
+    "Respuesta": {
+        "Id": "129f293d-0f43-4359-b402-cee81ff9f4f8",
+        "Url": "www.epdata.es/total-personas-murieron-espana/129f293d-0f43-4359-b402-cee81ff9f4f8",
+        "Titulo": "Un total de 493.776 personas murieron en España en 2020﻿ ",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Causas de muerte a nivel anual - Número de personas para total como sexo del fallecido, total como grupo quinquenal de edad del fallecido, total como causa de muerte y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Número de personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 1980,
+                            "Periodo": "Año",
+                            "Parametro": "1980",
+                            "Valor": 289344,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1981,
+                            "Periodo": "Año",
+                            "Parametro": "1981",
+                            "Valor": 293386,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1982,
+                            "Periodo": "Año",
+                            "Parametro": "1982",
+                            "Valor": 286655,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1983,
+                            "Periodo": "Año",
+                            "Parametro": "1983",
+                            "Valor": 302569,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1984,
+                            "Periodo": "Año",
+                            "Parametro": "1984",
+                            "Valor": 299409,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1985,
+                            "Periodo": "Año",
+                            "Parametro": "1985",
+                            "Valor": 312532,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1986,
+                            "Periodo": "Año",
+                            "Parametro": "1986",
+                            "Valor": 310413,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1987,
+                            "Periodo": "Año",
+                            "Parametro": "1987",
+                            "Valor": 310073,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1988,
+                            "Periodo": "Año",
+                            "Parametro": "1988",
+                            "Valor": 319437,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1989,
+                            "Periodo": "Año",
+                            "Parametro": "1989",
+                            "Valor": 324796,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1990,
+                            "Periodo": "Año",
+                            "Parametro": "1990",
+                            "Valor": 333142,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1991,
+                            "Periodo": "Año",
+                            "Parametro": "1991",
+                            "Valor": 337691,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1992,
+                            "Periodo": "Año",
+                            "Parametro": "1992",
+                            "Valor": 331515,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1993,
+                            "Periodo": "Año",
+                            "Parametro": "1993",
+                            "Valor": 339661,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1994,
+                            "Periodo": "Año",
+                            "Parametro": "1994",
+                            "Valor": 338242,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1995,
+                            "Periodo": "Año",
+                            "Parametro": "1995",
+                            "Valor": 346227,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1996,
+                            "Periodo": "Año",
+                            "Parametro": "1996",
+                            "Valor": 351449,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1997,
+                            "Periodo": "Año",
+                            "Parametro": "1997",
+                            "Valor": 349521,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1998,
+                            "Periodo": "Año",
+                            "Parametro": "1998",
+                            "Valor": 360511,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1999,
+                            "Periodo": "Año",
+                            "Parametro": "1999",
+                            "Valor": 371102,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2000,
+                            "Periodo": "Año",
+                            "Parametro": "2000",
+                            "Valor": 360391,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2001,
+                            "Periodo": "Año",
+                            "Parametro": "2001",
+                            "Valor": 360131,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2002,
+                            "Periodo": "Año",
+                            "Parametro": "2002",
+                            "Valor": 368618,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2003,
+                            "Periodo": "Año",
+                            "Parametro": "2003",
+                            "Valor": 384828,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2004,
+                            "Periodo": "Año",
+                            "Parametro": "2004",
+                            "Valor": 371934,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2005,
+                            "Periodo": "Año",
+                            "Parametro": "2005",
+                            "Valor": 387355,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Año",
+                            "Parametro": "2006",
+                            "Valor": 371478,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2007,
+                            "Periodo": "Año",
+                            "Parametro": "2007",
+                            "Valor": 385361,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Año",
+                            "Parametro": "2008",
+                            "Valor": 386324,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Año",
+                            "Parametro": "2009",
+                            "Valor": 384933,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Año",
+                            "Parametro": "2010",
+                            "Valor": 382047,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Año",
+                            "Parametro": "2011",
+                            "Valor": 387911,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Año",
+                            "Parametro": "2012",
+                            "Valor": 402950,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Año",
+                            "Parametro": "2013",
+                            "Valor": 390419,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Año",
+                            "Parametro": "2014",
+                            "Valor": 395830,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Año",
+                            "Parametro": "2015",
+                            "Valor": 422568,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Año",
+                            "Parametro": "2016",
+                            "Valor": 410611,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Año",
+                            "Parametro": "2017",
+                            "Valor": 424523,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "2018",
+                            "Valor": 427721,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Año",
+                            "Parametro": "2019",
+                            "Valor": 418703,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "2020",
+                            "Valor": 493776,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
