@@ -1,0 +1,62 @@
+﻿[
+    {
+        "Agno": 2018,
+        "Periodo": "Año",
+        "Parametro": "Accidentes de tráfico",
+        "Valor": 1896,
+    },
+    {
+        "Agno": 2018,
+        "Periodo": "Año",
+        "Parametro": "Accidentes por fuego, humo y sustancias\n  calientes",
+        "Valor": 145,
+    },
+    {
+        "Agno": 2018,
+        "Periodo": "Año",
+        "Parametro": "Agresiones (Homicidio)",
+        "Valor": 275,
+    },
+    {
+        "Agno": 2018,
+        "Periodo": "Año",
+        "Parametro": "Ahogamiento, sumersión y sofocación\n  accidentales",
+        "Valor": 3090,
+    },
+    {
+        "Agno": 2018,
+        "Periodo": "Año",
+        "Parametro": "Caídas accidentales",
+        "Valor": 3143,
+    },
+    {
+        "Agno": 2018,
+        "Periodo": "Año",
+        "Parametro": "Envenenamiento accidental por\n  psicofármacos y drogas de abuso",
+        "Valor": 713,
+    },
+    {
+        "Agno": 2018,
+        "Periodo": "Año",
+        "Parametro": "Otros accidentes",
+        "Valor": 2101,
+    },
+    {
+        "Agno": 2018,
+        "Periodo": "Año",
+        "Parametro": "Otros accidentes de transporte",
+        "Valor": 204,
+    },
+    {
+        "Agno": 2018,
+        "Periodo": "Año",
+        "Parametro": "Otros envenenamientos accidentales",
+        "Valor": 162,
+    },
+    {
+        "Agno": 2018,
+        "Periodo": "Año",
+        "Parametro": "Suicidio y lesiones autoinfligidas",
+        "Valor": 3539,
+    }
+]
