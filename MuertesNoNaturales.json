@@ -1,0 +1,85 @@
+﻿ [
+	{
+		"Año": 2018,
+		"Periodo": "Año",
+		"Parametro": "Accidentes de tráfico",
+		"Valor": 1896,
+		"Estado": null,
+		"Notas": null
+	},
+	{
+		"Año": 2018,
+		"Periodo": "Año",
+		"Parametro": "Accidentes por fuego, humo y sustancias calientes",
+		"Valor": 145,
+		"Estado": null,
+		"Notas": null
+	},
+	{
+		"Año": 2018,
+		"Periodo": "Año",
+		"Parametro": "Agresiones (Homicidio)",
+		"Valor": 275,
+		"Estado": null,
+		"Notas": null
+	},
+	{
+		"Año": 2018,
+		"Periodo": "Año",
+		"Parametro": "Ahogamiento, sumersión y sofocación accidentales",
+		"Valor": 3090,
+		"Estado": null,
+		"Notas": null
+	},
+	{
+		"Año": 2018,
+		"Periodo": "Año",
+		"Parametro": "Caídas accidentales",
+		"Valor": 3143,
+		"Estado": null,
+		"Notas": null
+	},
+	{
+		"Año": 2018,
+		"Periodo": "Año",
+		"Parametro": "Envenenamiento accidental por psicofármacos y drogas de abuso",
+		"Valor": 713,
+		"Estado": null,
+		"Notas": null
+	},
+	{
+		"Año": 2018,
+		"Periodo": "Año",
+		"Parametro": "Otros accidentes",
+		"Valor": 2101,
+		"Estado": null,
+		"Notas": null
+	},
+	{
+		"Año": 2018,
+		"Periodo": "Año",
+		"Parametro": "Otros accidentes de transporte",
+		"Valor": 204,
+		"Estado": null,
+		"Notas": null
+	},
+	{
+		"Año": 2018,
+		"Periodo": "Año",
+		"Parametro": "Otros envenenamientos accidentales",
+		"Valor": 162,
+		"Estado": null,
+		"Notas": null
+	},
+	{
+		"Año": 2018,
+		"Periodo": "Año",
+		"Parametro": "Suicidio y lesiones autoinfligidas",
+		"Valor": 3539,
+		"Estado": null,
+		"Notas": null
+	}
+]
+
+
+
